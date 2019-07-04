@@ -1,0 +1,7 @@
+# IDEs
+/.vs/
+/Client/Watcher.sln.DotSettings.user
+
+# Binaries
+/NoUFriendlyFire/obj/
+/NoUFriendlyFire/bin/
