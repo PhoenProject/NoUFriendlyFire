@@ -1,6 +1,8 @@
 # NoUFriendlyFire
 
-Fun little joke plugin that will reverse all friendly fire damage, meaning that instead of the team member being injured, it deals all the damage to the attacker instead
+Fun little joke plugin that will reverse all friendly fire damage, meaning that instead of the team member being injured, it deals all the damage to the attacker instead.
+
+
 Please note, this isn't actually designed for long term playing
 
 | Config Option | Default value  | Description  |
